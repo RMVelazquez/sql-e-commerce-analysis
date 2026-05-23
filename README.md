@@ -1,2 +1,1 @@
-# sql-e-commerce-analysis
-18:21Claude ha respondido: SQL analysis of a real e-commerce marketplace — revenue, seller performance, logistics &amp; payment behaviorSQL analysis of a real e-commerce marketplace — revenue, seller performance, logistics &amp; payment behavior
+SQL analysis of a real e-commerce marketplace — revenue, seller performance, logistics &amp; payment behaviorSQL analysis of a real e-commerce marketplace — revenue, seller performance, logistics &amp; payment behavior
